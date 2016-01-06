@@ -13,13 +13,11 @@ The attributes a task can have are:
 3. Creation Date - automatically created
 4. Due Date
 5. Assignee - separate object?
-
-* Name
-* Department(Group)
-* UID
-* email 
-* phone
-
+    * Name
+    * Department(Group)
+    * UID
+    * email 
+    * phone
 6. State - todo, in progress, on hold, done
 7. Completion date - automatically created when marked as done
 8. Notes
