@@ -7,6 +7,7 @@ the progress and state of those tasks, and mark them as complete once they are
 finished. 
 
 The attributes a task can have are:
+
 1. Title
 2. Description
 3. Creation Date
